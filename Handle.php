@@ -7,7 +7,7 @@
                 //Kiểm tra rỗng
                 if($email==''||$password=='')
                 {
-                    echo "Bạn chưa nhập email hoặc mật khẩu";
+                    echo "Bạn chưa nhập email";
                 }
                 else
                 {   
